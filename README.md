@@ -4,7 +4,7 @@
 
 <h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/muntasirahmeed/muntasirahmeed/main/wave.gif" width ="25">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Muntasir+Ahmed;Front+End+Developer+React+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Muntasir+Ahmed;Front+End+Developer;React+Developer)](https://git.io/typing-svg) 
 </h3>
 
 
