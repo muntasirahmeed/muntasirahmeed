@@ -73,7 +73,7 @@
 <!-- Contact Section -->
 <h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="60"> </h1>
 <div align="center">
-<a href="https://linkedin.com/in/muntasirahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasirahmeed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muntasir-ahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasirahmeed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18460047/muntasir-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-faisal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muntasir.ahmed.naim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.mohammad.faisal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/muntasir_ahmeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal85412" height="30" width="40" /></a>
