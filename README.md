@@ -1,8 +1,7 @@
-![mohammadFaisal](https://user-images.githubusercontent.com/96827043/175876414-9998dd73-c4be-4a78-a29e-73ebd2e6bf2f.gif)
 
 <!-- Heading -->
 
-<h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/muntasirahmeed/muntasirahmeed/main/wave.gif" width ="25">
+<h3 align="center"> Hey Curious < Developers/ > <br> <img src = "https://raw.githubusercontent.com/muntasirahmeed/muntasirahmeed/main/wave.gif" width ="25">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Muntasir+Ahmed;Front+End+Developer;React+Developer)](https://git.io/typing-svg) 
 </h3>
